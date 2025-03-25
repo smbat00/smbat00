@@ -12,8 +12,7 @@ I'm a Full Stack Web Developer with 6+ years of experience. I specialize in buil
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/smbatam0)
 [![instagram](https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smbat.am/)
 [![CodeLines](https://img.shields.io/badge/codelines-154d5e?style=for-the-badge&logo=site&logoColor=white)](https://codelines.am)
-[![CodeLines](
-https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mail:smbat@amiraghyan.info)
+[![CodeLines](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](smbat@amiraghyan.info)
 
 ---
 
