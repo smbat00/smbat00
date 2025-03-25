@@ -8,7 +8,8 @@ I'm a Full Stack Web Developer with 6+ years of experience. I specialize in buil
 
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile-link)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/smbat-am)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/smbatam0)
+[![instagram](https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/smbat.am/)
 
 ### 📫 Connect with Me:
 - 🌍 [CodeLines Website](https://codelines.am)
