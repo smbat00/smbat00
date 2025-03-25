@@ -8,7 +8,6 @@ I'm a Full Stack Web Developer with 6+ years of experience. I specialize in buil
 
 ### 🚀 Technologies & Skills
 
-```html
 <svg width="100%" height="100%" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
   <style>
     .bar { fill: #154d5e; }
@@ -51,7 +50,7 @@ I'm a Full Stack Web Developer with 6+ years of experience. I specialize in buil
   <rect width="80%" height="30" x="10" y="450" class="bar" />
   <text x="15" y="470" class="text">MySQL - 80%</text>
 </svg>
-```
+
 
 ---
 
