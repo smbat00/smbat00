@@ -6,6 +6,7 @@ I'm a Full Stack Web Developer with 6+ years of experience. I specialize in buil
 
 ---
 
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/your-profile-link)
 
 
 ### 📫 Connect with Me:
